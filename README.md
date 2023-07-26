@@ -2,7 +2,7 @@
 
 ## Read first
 * [About this doc](ABOUTDOC.md) Read this if new to AmigaE!
-* [Also check out...](CHECKOUTALSO.md)
+* [Also check out...](CHECKALSO.md)
 
 ## Before you start
 * [Requirements](REQUIREMENTS.md)
