@@ -29,6 +29,7 @@ up to the programmer.
    On failure, "process" will be NIL, and "r" will contain the error ("SIG" for no
    signals, "PROC" for CreateNewProc() failure), other errors may come from the
    new process returning them.
+
 ---
 `releaseSuccess(private,return=NIL)`
 
@@ -62,6 +63,7 @@ up to the programmer.
    Note: "private" really is private, do not assume anything about it.
 
    For an example of use, see E:Source/MUI/Subtask.e
+
 ---
 `success := newEnvironment()`
 
