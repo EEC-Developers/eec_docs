@@ -4,9 +4,10 @@ Note: These are not built in functions, see the module tools/thread.m
 These functions cater for the 3 most important things when it comes to
 thread creation: synchronisation, error handling, argument/environment
 passing. They also provide a neat interface that should be quite portable
-atleast across Amiga-like OSes. They don not involve themselves in any way
+atleast across Amiga-like OSes. They do not involve themselves in any way
 with what is done after the synchronised creation is done. This is all
 up to the programmer.
+
 ---
 `process, r := newProcess(proc,pri,name,arg,stack=NIL,tags=NIL)`
 
