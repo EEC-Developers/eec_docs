@@ -1,7 +1,7 @@
 # More E information
 For AmigaE and related docs, check out
 
-* [Wouters AmigaE Homepage](wouter.fov120.com/e/).
+* [Wouters AmigaE Homepage](https://strlen.com/amiga-e/)
 
 * Aminet:dev/e/amigae33a.lha contains the original AmigaE compiler and 
    examples, documentation (look for E.guide and BeginnersGuide/Contents.guide)
