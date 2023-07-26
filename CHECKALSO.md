@@ -8,7 +8,7 @@ For AmigaE and related docs, check out
 
    * [Beginners Guide also available online](http://cshandley.co.uk/JasonHulance/beginner_1.html)
 
-   * [Wouters E.guide is also online](http://cshandley.co.uk/amigae/)
+   * [Wouters E.guide is also online](http://cshandley.co.uk/amigae/index.html)
 
 For even more E related material:
 
@@ -16,4 +16,4 @@ For even more E related material:
 
    * [AmigaE Mailinglist](http://www.freelists.org/list/positron/)
 
-   * Damiens system programming guide](http://aminet.net/packages/dev/e/EC4OS3.lha)
+   * [Damiens system programming guide](http://aminet.net/packages/dev/e/EC4OS3.lha)
