@@ -1,72 +1,72 @@
 # ECX by Leif Salmonsson
 
 ## Read first
-[About this doc](ABOUTDOC) Read this if new to AmigaE !
-[Also check out...](CHECKOUTALSO)
+* [About this doc](ABOUTDOC.md) Read this if new to AmigaE!
+* [Also check out...](CHECKOUTALSO.md)
 
 ## Before you start
-* [Requirements](REQUIREMENTS)
-* [Warranty](WARRANTY)
-* [Installation](INSTALLATION) READ THIS!
-* [Usage](USAGE)
-* [Introduction](INTRODUCTION)
+* [Requirements](REQUIREMENTS.md)
+* [Warranty](WARRANTY.md)
+* [Installation](INSTALLATION.md) READ THIS!
+* [Usage](USAGE.md)
+* [Introduction](INTRODUCTION.md)
 
 ## New language features/improvements/changes
-* [The OPT keyword](OPTKEY)
-* [Various improvements](VARIOUSIMPROVEMENTS)
-* [Various new features](VARIOUSNEWFEATURES)
-* [Incompatibilities](INCOMPATIBILITIES)
-* [Floating point](FLOATPOINT)
-* [STATIC data](STATICKEY)
-* [Class methods](STATICMETH)
-* [Library mode](LIBRARYMODE)
-* [680x0 inline asm](INLINEASM68K)
-* [PowerPC inline asm](INLINEASMPPC)
-* [Internal functions](INTFUNCS)
-* [Thread support](THREADSUPP)
-* [Linkobject mode](LINKOBJECT)
-* [String formatting](STRINGFORMAT)
-* [64bit integers](INTEGER64)
+* [The OPT keyword](OPTKEY.md)
+* [Various improvements](VARIOUSIMPROVEMENTS.md)
+* [Various new features](VARIOUSNEWFEATURES.md)
+* [Incompatibilities](INCOMPATIBILITIES.md)
+* [Floating point](FLOATPOINT.md)
+* [STATIC data](STATICKEY.md)
+* [Class methods](STATICMETH.md)
+* [Library mode](LIBRARYMODE.md)
+* [680x0 inline asm](INLINEASM68K.md)
+* [PowerPC inline asm](INLINEASMPPC.md)
+* [Internal functions](INTFUNCS.md)
+* [Thread support](THREADSUPP.md)
+* [Linkobject mode](LINKOBJECT.md)
+* [String formatting](STRINGFORMAT.md)
+* [64bit integers](INTEGER64.md)
 
 ## Values, types, and how they fit together
-* [Value system](VALUESYS)
-* [Type system](TYPESYS)
-* [64bit discussion](DISC64)
-* [Order of evaluation](EVALORDER)
+* [Value system](VALUESYS.md)
+* [Type system](TYPESYS.md)
+* [64bit discussion](DISC64.md)
+* [Order of evaluation](EVALORDER.md)
 
 ## Preprocessor
-* [Define macros](DEFMACS)
-* [Conditional compilation](CONDCOMP)
-* [Predefined symbols](PREDEFSYMS)
-* [Multi statement macros](PPDETAILS)
+* [Define macros](DEFMACS.md)
+* [Conditional compilation](CONDCOMP.md)
+* [Predefined symbols](PREDEFSYMS.md)
+* [Multi statement macros](PPDETAILS.md)
 * [Other directives]()
-* [Notes](PPMORE)
+* [Notes](PPMORE.md)
 
 ## Reference
-* [Predefined globals](IGLOBALS)
-* [Predefined constants](ICONSTANTS)
-* [Namespaces](NAMESPACES)
-* [Grammar description](EBNFGRAMMAR)
-* [Target details](TARGDETAILS)
-* [Compiler details](COMPDETAILS)
-* [Hardcoded limits](LIMITS)
-* [Other limits](CURRLIMITS)
+* [Predefined globals](IGLOBALS.md)
+* [Predefined constants](ICONSTANTS.md)
+* [Namespaces](NAMESPACES.md)
+* [Grammar description](EBNFGRAMMAR.md)
+* [Target details](TARGDETAILS.md)
+* [Compiler details](COMPDETAILS.md)
+* [Hardcoded limits](LIMITS.md)
+* [Other limits](CURRLIMITS.md)
 
 ## Binary compatibility
-* [Using old modules](ECBINMODS)
+* [Using old modules](ECBINMODS.md)
 
 ## Support tools
-* [Tools](TOOLS)
+* [Tools](TOOLS.md)
 
 ## Frequently asked questions
-* [Language](LANGFAQ)
-* [Other](OTHERFAQ)
+* [Language](LANGFAQ.md)
+* [Other](OTHERFAQ.md)
 
 ## Tips
-* [Debugging](DEBUGTIPS)
-* [Cross compiling](CROSSCOMP)
+* [Debugging](DEBUGTIPS.md)
+* [Cross compiling](CROSSCOMP.md)
 
 ## Finally
-* [Bugs](BUGS)
-* [Thanks to](THANKSTO)
-* [The author of ECX](ECXAUTHOR)
+* [Bugs](BUGS.md)
+* [Thanks to](THANKSTO.md)
+* [The author of ECX](ECXAUTHOR.md)
