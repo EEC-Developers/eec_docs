@@ -1,4 +1,5 @@
-# ECX by Leif Salmonsson
+# EEC, the Enhanced E Compiler
+### based on ECX by Leif Salmonsson
 
 ## Read first
 * [About this doc](ABOUTDOC.md) Read this if new to AmigaE!
@@ -69,4 +70,4 @@
 ## Finally
 * [Bugs](BUGS.md)
 * [Thanks to](THANKSTO.md)
-* [The author of ECX](ECXAUTHOR.md)
+* [The authors of EEC](AUTHORS.md)
