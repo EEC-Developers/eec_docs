@@ -19,7 +19,7 @@
 * [Incompatibilities](INCOMPATIBILITIES.md)
 * [Floating point](FLOATPOINT.md)
 * [STATIC data](STATICKEY.md)
-* [Class methods](STATICMETH.md)
+* [Class methods](STATICMETHS.md)
 * [Library mode](LIBRARYMODE.md)
 * [680x0 inline asm](INLASM68K.md)
 * [PowerPC inline asm](INLASMPPC.md)
