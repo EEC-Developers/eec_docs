@@ -40,8 +40,7 @@
 * [Conditional compilation](CONDCOMP.md)
 * [Predefined symbols](PREDEFSYMS.md)
 * [Multi statement macros](PPDETAILS.md)
-* [Other directives]()
-* [Notes](PPMORE.md)
+* [Other directives](PPMORE.md)
 
 ## Reference
 * [Predefined globals](IGLOBALS.md)
