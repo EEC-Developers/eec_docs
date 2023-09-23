@@ -1,10 +1,10 @@
 # Usage
 ## Quick usage:
-`ecx <sourcename> <targetname>`
+`eec <sourcename> <targetname>`
 
 example:
 
-`ecx myapp amigaos`
+`eec myapp amigaos`
 
 ## Commandline parameters:
 
@@ -21,8 +21,8 @@ example:
 
 `REG=NUMREGALLOC/N` Automatically put often used variables in
    registers. 0..4 registers for 680x0, 0..12 for powerpc. It is safe to give 
-   too big value here, ECX just tries to use as many registers as possible. 
-   Using "NUMREGALLOC -1", will make ECX to decide itself how many registers 
+   too big value here, EEC just tries to use as many registers as possible. 
+   Using "NUMREGALLOC -1", will make EEC to decide itself how many registers 
    to use for each procedure (recommended).
 
 `FREG=NUMFREGALLOC/N` Like above, now for DOUBLE variables. 0-12 or -1. 
@@ -66,9 +66,12 @@ example:
 ## Preprocessor
 
 `DEFINE/K` Define macro(s) on the commandline. Examples:
-   > ECX myprogg DEFINE MYSWITCH
-   > ECX myprogg DEFINE "MyMacroValue 100"
+   > eec myprogg DEFINE MYSWITCH
+
+   > eec myprogg DEFINE "MyMacroValue 100"
+
    Use ";" to separate multiple macros.
+   
    You need "OPT PREPROCESS" in the source.
 
 `SHOWCONDSYMS/S` Show preprocessor symbols being used in conditional
@@ -87,10 +90,10 @@ example:
    (EXENAME and MODNAME can be combined). '.m' will get appended to name.
 
 `DIR=MODULEDIR/K` Like OPT DIR, allows to add more directories to module 
-   search path. The order in which ECX searches modules is
+   search path. The order in which EEC searches modules is
    1. Commandline MODULEDIR/K (right to left),
    2. `OPT DIR` (right to left)
-   3. `ecx-<target>-dir` environment variable (right to left)
+   3. `eec-<target>-dir` environment variable (right to left)
 
 ## Other
 
