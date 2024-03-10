@@ -2,7 +2,7 @@
 Thanks and greetings to following people:
 * Wouter van Oortmerssen
    The creator of AmigaE and EC, amongst many other things
-   [http://wouter.fov120.com](http://wouter.fov120.com}\
+   [http://wouter.fov120.com](http://wouter.fov120.com)\
 * Ingo Musquinier
    [amigazeux.org](amigazeux.org)
 * Matthias "UltraGelb" Böcker
@@ -21,7 +21,7 @@ Thanks and greetings to following people:
 * Frank Wille
    His excellent assemblers and linkers, and other stuff..
 
-   [http://devnull.owl.de/~frank/index_e.html]](http://devnull.owl.de/~frank/index_e.html)
+   [http://devnull.owl.de/~frank/index_e.html](http://devnull.owl.de/~frank/index_e.html)
 * MorphOS Development Team
 [http://www.morphos-team.net](http://www.morphos-team.net)
 * Damien Guichard
@@ -37,13 +37,17 @@ Thanks and greetings to following people:
    Author of PowerD compiler.
 * Karoly Balogh
    Author of FreePascal MorphOS port.
+
 ---
+
 Special thanks go to those who donated money:
 * Damien Guichard,
 * Ingo Musquinier,
 * Jens Holzammer,
 * Karoly Balogh
+
 ---
+
 Special thanks to those who donated hardware:
 
 Genesi, bplan, Phoenix Developers Consortium
